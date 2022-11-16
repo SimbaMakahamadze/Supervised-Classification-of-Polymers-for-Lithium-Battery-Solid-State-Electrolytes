@@ -1,0 +1,6 @@
+svm_logger;Best hyper-parameters = {'C': 10, 'gamma': 0.01, 'probability': True}
+svm_logger;Best estimator = SVC(C=10, gamma=0.01, probability=True)
+svm_logger;Training set score = 1.000
+svm_logger;Testing set f1 score = 0.600
+svm_logger;Area under ROC = 0.6785714285714286
+

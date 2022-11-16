@@ -1,0 +1,56 @@
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Training set score = 1.000
+Testing set f1 score = 0.667
+Area under ROC = 0.6333333333333333
+
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Training set score = 1.000
+Testing set f1 score = 0.667
+Area under ROC = 0.6333333333333333
+
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Training set score = 1.000
+Training set score = 1.000
+Testing set f1 score = 0.667
+Testing set f1 score = 0.667
+Area under ROC = 0.6333333333333333
+
+Area under ROC = 0.6333333333333333
+
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best hyper-parameters = {'activation': 'relu', 'alpha': 3e-08, 'hidden_layer_sizes': (512,), 'learning_rate': 'adaptive', 'max_iter': 5000, 'random_state': 42}
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Best estimator = MLPClassifier(alpha=3e-08, hidden_layer_sizes=(512,), learning_rate='adaptive',
+              max_iter=5000, random_state=42)
+Training set score = 1.000
+Training set score = 1.000
+Training set score = 1.000
+Training set score = 1.000
+Testing set f1 score = 0.667
+Testing set f1 score = 0.667
+Testing set f1 score = 0.667
+Testing set f1 score = 0.667
+Area under ROC = 0.6333333333333333
+
+Area under ROC = 0.6333333333333333
+
+Area under ROC = 0.6333333333333333
+
+Area under ROC = 0.6333333333333333
+
